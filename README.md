@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**hounsouthohin/hounsouthohin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Arthur Bambara!
 
-Here are some ideas to get you started:
+🎨 Web Designer | 💻 Blazor Developer | 📱 Responsive UI Enthusiast  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in **modern web design**, **responsive UI**, and **frontend development**.  
+Passionate about crafting visually appealing and user-friendly interfaces.
+
+🔹 **Skills:** HTML, CSS, JavaScript, Blazor, Bootstrap, Tailwind CSS  
+🔹 **Portfolio:** [arthurbambara.com](https://arthurbambara.com)  
+🔹 **Let's connect:** [LinkedIn](https://linkedin.com/in/arthurbambara) | [GitHub](https://github.com/arthurbambara)  
+
+## 🔥 Featured Projects
+🚀 **[Project Name](https://github.com/ArthurBambara/project-name)**  
+🖼️ **[Live Demo](https://project-demo.com)**  
+📸 ![Project Screenshot](https://link-to-screenshot.com)
+
+---
+
+⭐️ _Check out my projects and feel free to connect!_ 🚀
