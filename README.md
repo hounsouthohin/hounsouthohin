@@ -3,6 +3,10 @@
 # 👋 Hello, I'm Arthur Bambara!
 
 🎨 Web Designer | 💻 Blazor Developer | 📱 Responsive UI Enthusiast  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
 I specialize in **modern web design**, **responsive UI**, and **frontend development**.  
 Passionate about crafting visually appealing and user-friendly interfaces.
