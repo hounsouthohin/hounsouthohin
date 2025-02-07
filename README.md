@@ -52,11 +52,22 @@ Passionné par le développement web et logiciel, j'aime explorer différentes t
 
 ---
 
+## 📊 Statistiques GitHub
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=hounsouthohin&show_icons=true&theme=dark)
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=hounsouthohin&layout=compact&theme=dark)
+
+![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=hounsouthohin&theme=github-dark)
+
+---
+
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arthur-bambara-776068264)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hounsouthohin)
 
 💬 **N'hésitez pas à me contacter pour collaborer !** 🚀
+
 
