@@ -1,5 +1,5 @@
-## Hi there 👋
 
+![GitHub followers](https://img.shields.io/github/followers/hounsouthohin?style=social)
 # 👋 Hello, I'm Arthur Bambara!
 
 🎨 Web Designer | 💻 Blazor Developer | 📱 Responsive UI Enthusiast  
