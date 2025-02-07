@@ -44,14 +44,6 @@ Passionné par le développement web et logiciel, j'aime explorer différentes t
 
 ---
 
-## 📂 Projets Notables
-
-🔹 [Nom du Projet 1](https://github.com/username/projet1) - Description rapide.
-🔹 [Nom du Projet 2](https://github.com/username/projet2) - Description rapide.
-🔹 [Nom du Projet 3](https://github.com/username/projet3) - Description rapide.
-
----
-
 ## 📊 Statistiques GitHub
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=hounsouthohin&show_icons=true&theme=dark)
